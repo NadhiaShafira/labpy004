@@ -136,3 +136,4 @@ Apakah ingin menambahkan data lagi? (y/t): t
 ![foto](https://github.com/NadhiaShafira/labpy004/blob/b992bc5b292c3705da46962af05307e967ef2ae1/Flowchart.png) 
 
 ## Hasil Output 
+![foto](https://github.com/NadhiaShafira/labpy004/blob/0704add6df5586b53119c6d16c4666e58eccfe36/Cuplikan%20layar%202024-11-19%20211532.png)
