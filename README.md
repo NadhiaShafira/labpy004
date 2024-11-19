@@ -133,4 +133,6 @@ Apakah ingin menambahkan data lagi? (y/t): t
 
 ```
 ## Flow Chart 
-![foto](
+![foto](https://github.com/NadhiaShafira/labpy004/blob/b992bc5b292c3705da46962af05307e967ef2ae1/Flowchart.png) 
+
+## Hasil Output 
