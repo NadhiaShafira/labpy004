@@ -132,3 +132,5 @@ Nilai UAS (0-100): 85
 Apakah ingin menambahkan data lagi? (y/t): t
 
 ```
+## Flow Chart 
+![foto](
